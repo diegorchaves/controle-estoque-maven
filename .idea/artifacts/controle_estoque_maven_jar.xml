@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="controle-estoque-maven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/controle_estoque_maven_jar</output-path>
+    <root id="archive" name="controle-estoque-maven.jar">
+      <element id="module-output" name="controle-estoque-maven" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
